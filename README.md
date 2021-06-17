@@ -13,18 +13,18 @@
     
 <table>
   <tr>
-    <td valign="top">
+    <td>
         <img align=top src="https://github-readme-stats.vercel.app/api?username=sreeram-venkitesh&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
     </td>
-    <td valign="top">
+    <td>
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fillerInk&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
     </td>
   </tr>
-    <tr>
+<!--     <tr>
         <td colspan="2">
         <img alt="Sreeram's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreeram-venkitesh&bg_color=1F222E&color=F8D866&line=79ff97&point=FFFFFF&hide_border=true" />
         </td>
-    </tr>
+    </tr> -->
 </table>
 <div align="center">
 <a href="https://www.youtube.com/c/sreeramvenkitesh" target="_blank">
