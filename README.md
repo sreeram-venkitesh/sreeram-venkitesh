@@ -1,26 +1,14 @@
-<h2>Hi there! I'm Sreeram 🙋🏻</h2>
-
-<p>I'm a software developer from Kerala, India</p>
-
+<!-- <h2>Hi there! I'm Sreeram 🙋🏻</h2>
+ -->
+<!-- <p>I'm a software developer from Kerala, India</p>
+ -->
 <!-- <ul>
     <li>I do web development 👨‍💻</li>
     <li>Currently learning:  React ⚛️</li>
     <li>Current side project: Gameboy emulator 🎮</li>    
 </ul> -->
 
-<h3>Check out my other profiles</h3>
-<div align="left">
-<a href="https://www.youtube.com/c/sreeramvenkitesh" target="_blank">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCVvudG1jPrVpkqKrINI_3Zw?color=%23E05D44&label=Subscribers&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
-    
-<a href="https://www.youtube.com/c/sreeramvenkitesh" target="_blank">
-    <img alt="Total YouTube views" title="Total Views" src="https://img.shields.io/youtube/channel/views/UCVvudG1jPrVpkqKrINI_3Zw?color=%23E05D44&label=Total%20Views&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
-
-<a href="https://twitter.com/fillerInk" target="_blank">
-  <img alt="twitter" title="Twitter" src="https://img.shields.io/twitter/follow/fillerInk?color=blue&label=Twitter&logo=Twitter&style=for-the-badge"
-</a>
-</div>
-</br>
+<!-- <h3>Check out my other profiles</h3> -->
     
     
 <table>
@@ -38,6 +26,16 @@
         </td>
     </tr>
 </table>
+<div align="center">
+<a href="https://www.youtube.com/c/sreeramvenkitesh" target="_blank">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCVvudG1jPrVpkqKrINI_3Zw?color=%23E05D44&label=Subscribers&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
+    
+<a href="https://www.youtube.com/c/sreeramvenkitesh" target="_blank">
+    <img alt="Total YouTube views" title="Total Views" src="https://img.shields.io/youtube/channel/views/UCVvudG1jPrVpkqKrINI_3Zw?color=%23E05D44&label=Total%20Views&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
 
+<a href="https://twitter.com/fillerInk" target="_blank">
+  <img alt="twitter" title="Twitter" src="https://img.shields.io/twitter/follow/fillerInk?color=blue&label=Twitter&logo=Twitter&style=for-the-badge"
+</a>
+</div>
 
 
