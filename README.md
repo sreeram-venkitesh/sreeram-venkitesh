@@ -17,7 +17,7 @@
         <img align=top src="https://github-readme-stats.vercel.app/api?username=sreeram-venkitesh&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
     </td>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fillerInk&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fillerInk&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_c ount=6" />
     </td>
   </tr>
 <!--     <tr>
