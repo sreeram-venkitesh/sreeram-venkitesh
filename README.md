@@ -26,7 +26,7 @@
         </td>
     </tr> -->
 </table>
-<div align="center">
+<!-- <div align="center">
 <a href="https://www.youtube.com/c/sreeramvenkitesh" target="_blank">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCVvudG1jPrVpkqKrINI_3Zw?color=%23E05D44&label=Subscribers&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
     
@@ -36,6 +36,6 @@
 <a href="https://twitter.com/fillerInk" target="_blank">
   <img alt="twitter" title="Twitter" src="https://img.shields.io/twitter/follow/fillerInk?color=blue&label=Twitter&logo=Twitter&style=for-the-badge"
 </a>
-</div>
+</div> -->
 
 
