@@ -8,6 +8,18 @@ I'm also active in the Kuberentes and the CNCF open source community. I've been 
 
 I love giving [technical talks](https://sreeram.xyz/talks) at conferences. I find the entire process of researching and preparing a talk one of the best ways to learn about a topic in detail. I enjoy writing blogs about the things I'm learning as well. You can read more about my work and my blogs in my [personal website](https://sreeram.xyz).
 
+Currently I'm working on:
+```
+- Building NeetoDeploy
+- Writing https://lwkd.info
+```
+
+Previously:
+```
+- Led the enhancements subteam for the Kubernetes v1.31 release cycle
+- Part of the Kubernetes release team for v1.29, v1.30
+```
+
 <!-- <table>
   <tr>
     <td>
