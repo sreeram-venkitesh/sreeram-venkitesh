@@ -9,11 +9,11 @@ I'm also active in the Kuberentes and the CNCF open source community. I've been 
 I love giving [technical talks](https://sreeram.xyz/talks) at conferences. I find the entire process of researching and preparing a talk one of the best ways to learn about a topic in detail. I enjoy writing blogs about the things I'm learning as well. You can read more about my work and my blogs in my [personal website](https://sreeram.xyz).
   
 <a href="https://www.credly.com/badges/ab4cd806-ca81-409c-9d2c-654db559839a/public_url">
-  <img alt="KubeCon + Cloud Native China 2024 Speaker Badge" src="speaker-kubecon-cloudnativecon-open-source-summit-a.1.png" width="250" height="250" />
+  <img alt="KubeCon + Cloud Native China 2024 Speaker Badge" src="speaker-kubecon-cloudnativecon-open-source-summit-a.1.png" width="200" height="200" />
 </a>
 
 <a href="https://www.credly.com/badges/dead82a1-c417-4966-8154-b53a91c2c120/public_url">
-  <img alt="KCD Kerala 2024 Speaker Badge" src="speaker-kcd-kerala-2024.png" width="250" height="250" />
+  <img alt="KCD Kerala 2024 Speaker Badge" src="speaker-kcd-kerala-2024.png" width="200" height="200" />
 </a>
 
 
