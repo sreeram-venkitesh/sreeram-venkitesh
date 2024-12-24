@@ -17,6 +17,18 @@ I love giving [technical talks](https://sreeram.xyz/talks) at conferences. I fin
 </a> -->
 
 
+Currently I'm working on:
+```
+- Building NeetoDeploy
+- Writing https://lwkd.info
+```
+
+Previously:
+```
+- Led the enhancements subteam for the Kubernetes v1.31 release cycle
+- Part of the Kubernetes release team for v1.29, v1.30
+```
+
 <!-- <table>
   <tr>
     <td>
