@@ -19,6 +19,18 @@ I also enjoy blogging about the things I'm learning. You can read more about my 
 </a> -->
 
 
+Currently I'm working on:
+```
+- Building NeetoDeploy
+- Writing https://lwkd.info
+```
+
+Previously:
+```
+- Led the enhancements subteam for the Kubernetes v1.31 release cycle
+- Part of the Kubernetes release team for v1.29, v1.30
+```
+
 <!-- <table>
   <tr>
     <td>
